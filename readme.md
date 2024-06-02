@@ -58,4 +58,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Avneesh Chaudhary
 - Email: hey@avneeshchaudhary.com
-```
